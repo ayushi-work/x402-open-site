@@ -209,3 +209,117 @@ body {
     }
 }
 
+/* Loading Screen Styles */
+.loading-screen {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(135deg, #ffffff 0%, #f9f9f9 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 10000;
+    transition: opacity 0.8s ease-out, visibility 0.8s ease-out;
+    visibility: visible;
+}
+
+.loading-screen.fade-out {
+    opacity: 0;
+    visibility: hidden;
+}
+
+.loading-content {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 3rem;
+}
+
+.loading-logo {
+    width: 180px;
+    height: 170px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    animation: logo-float 3s ease-in-out infinite;
+    filter: drop-shadow(0 10px 30px rgba(0, 0, 0, 0.08));
+}
+
+.logo-image {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.loading-bars {
+    display: flex;
+    gap: 0.5rem;
+    align-items: flex-end;
+    height: 40px;
+}
+
+.loading-bar-item {
+    width: 4px;
+    height: 8px;
+    background: linear-gradient(180deg, #1a1a1a 0%, #4a4a4a 100%);
+    border-radius: 2px;
+    animation: bar-bounce 1s ease-in-out infinite;
+}
+
+.loading-bar-item:nth-child(2) {
+    animation-delay: 0.2s;
+    height: 18px;
+}
+
+.loading-bar-item:nth-child(3) {
+    animation-delay: 0.4s;
+    height: 12px;
+}
+
+@keyframes logo-float {
+    0%, 100% {
+        transform: translateY(0px);
+    }
+    50% {
+        transform: translateY(-20px);
+    }
+}
+
+@keyframes bar-bounce {
+    0%, 100% {
+        height: 8px;
+        opacity: 0.6;
+    }
+    50% {
+        height: 24px;
+        opacity: 1;
+    }
+}
+
+/* Loading screen responsive */
+@media (max-width: 768px) {
+    .loading-logo {
+        width: 140px;
+        height: 130px;
+    }
+    
+    .loading-bars {
+        gap: 0.4rem;
+        height: 35px;
+    }
+    
+    .loading-bar-item {
+        width: 3px;
+    }
+    
+    .loading-bar-item:nth-child(2) {
+        height: 14px;
+    }
+    
+    .loading-bar-item:nth-child(3) {
+        height: 10px;
+    }
+}

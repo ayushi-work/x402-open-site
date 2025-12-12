@@ -10,6 +10,20 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+    <!-- Loading Screen -->
+    <div class="loading-screen" id="loading-screen">
+        <div class="loading-content">
+            <div class="loading-logo">
+                <img src="assets/Group 1.svg" alt="x402 logo" class="logo-image">
+            </div>
+            <div class="loading-bars">
+                <div class="loading-bar-item"></div>
+                <div class="loading-bar-item"></div>
+                <div class="loading-bar-item"></div>
+            </div>
+        </div>
+    </div>
+
     <div class="container">
         <!-- Left side - Abstract geometric shape -->
         <div class="left-section">
@@ -85,6 +99,18 @@ body.cursor-down .cursor { opacity: 0.85; }
   document.addEventListener('mousedown', () => document.body.classList.add('cursor-down'));
   document.addEventListener('mouseup', () => document.body.classList.remove('cursor-down'));
 })();
+</script>
+
+<!-- Loading Screen Script -->
+<script>
+  // Hide loading screen when page is fully loaded
+  window.addEventListener('load', () => {
+    const loadingScreen = document.getElementById('loading-screen');
+    loadingScreen.classList.add('fade-out');
+    setTimeout(() => {
+      loadingScreen.style.display = 'none';
+    }, 600);
+  });
 </script>
 
 </body>
