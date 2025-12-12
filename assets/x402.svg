@@ -1,25 +1,25 @@
-<svg width="1512" height="982" viewBox="0 0 1512 982" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1727" height="982" viewBox="0 0 1727 982" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_60_40)" filter="url(#filter0_n_60_40)">
-<rect width="1512" height="982" fill="white"/>
-<line y1="50.75" x2="1512" y2="50.75" stroke="#3C3939" stroke-width="0.5"/>
-<line y1="931.75" x2="1512" y2="931.75" stroke="#3C3939" stroke-width="0.5"/>
+<rect width="1727" height="982" fill="white"/>
+<line x1="1676.75" y1="982" x2="1676.75" stroke="#3C3939" stroke-width="0.5"/>
+<line x1="49.75" y1="982" x2="49.75" stroke="#3C3939" stroke-width="0.5"/>
+<line y1="49.75" x2="1727" y2="49.75" stroke="#3C3939" stroke-width="0.5"/>
+<line y1="-0.25" x2="1727" y2="-0.25" transform="matrix(1 0 0 -1 0 932)" stroke="#3C3939" stroke-width="0.5"/>
 <g filter="url(#filter1_g_60_40)">
-<path d="M49.5 42L50.5763 45.4716C51.1911 47.4544 52.4724 49.1637 54.2032 50.31L56 51.5L54.2032 52.69C52.4724 53.8363 51.1911 55.5456 50.5763 57.5284L49.5 61L48.4237 57.5284C47.8089 55.5456 46.5276 53.8363 44.7968 52.69L43 51.5L44.7968 50.31C46.5276 49.1637 47.8089 47.4544 48.4237 45.4716L49.5 42Z" fill="#3C3939"/>
+<path d="M1676.5 40L1677.58 43.4716C1678.19 45.4544 1679.47 47.1637 1681.2 48.31L1683 49.5L1681.2 50.69C1679.47 51.8363 1678.19 53.5456 1677.58 55.5284L1676.5 59L1675.42 55.5284C1674.81 53.5456 1673.53 51.8363 1671.8 50.69L1670 49.5L1671.8 48.31C1673.53 47.1637 1674.81 45.4544 1675.42 43.4716L1676.5 40Z" fill="#3C3939"/>
 </g>
 <g filter="url(#filter2_g_60_40)">
-<path d="M1449.5 922L1450.58 925.472C1451.19 927.454 1452.47 929.164 1454.2 930.31L1456 931.5L1454.2 932.69C1452.47 933.836 1451.19 935.546 1450.58 937.528L1449.5 941L1448.42 937.528C1447.81 935.546 1446.53 933.836 1444.8 932.69L1443 931.5L1444.8 930.31C1446.53 929.164 1447.81 927.454 1448.42 925.472L1449.5 922Z" fill="#3C3939"/>
+<path d="M1676.5 922L1677.58 925.472C1678.19 927.454 1679.47 929.164 1681.2 930.31L1683 931.5L1681.2 932.69C1679.47 933.836 1678.19 935.546 1677.58 937.528L1676.5 941L1675.42 937.528C1674.81 935.546 1673.53 933.836 1671.8 932.69L1670 931.5L1671.8 930.31C1673.53 929.164 1674.81 927.454 1675.42 925.472L1676.5 922Z" fill="#3C3939"/>
 </g>
 <g filter="url(#filter3_g_60_40)">
-<path d="M1449.5 41L1450.58 44.4716C1451.19 46.4544 1452.47 48.1637 1454.2 49.31L1456 50.5L1454.2 51.69C1452.47 52.8363 1451.19 54.5456 1450.58 56.5284L1449.5 60L1448.42 56.5284C1447.81 54.5456 1446.53 52.8363 1444.8 51.69L1443 50.5L1444.8 49.31C1446.53 48.1637 1447.81 46.4544 1448.42 44.4716L1449.5 41Z" fill="#3C3939"/>
-</g>
-<g filter="url(#filter4_g_60_40)">
 <path d="M49.5 922L50.5763 925.472C51.1911 927.454 52.4724 929.164 54.2032 930.31L56 931.5L54.2032 932.69C52.4724 933.836 51.1911 935.546 50.5763 937.528L49.5 941L48.4237 937.528C47.8089 935.546 46.5276 933.836 44.7968 932.69L43 931.5L44.7968 930.31C46.5276 929.164 47.8089 927.454 48.4237 925.472L49.5 922Z" fill="#3C3939"/>
 </g>
-<line x1="49.75" y1="982" x2="49.75" stroke="#3C3939" stroke-width="0.5"/>
-<line x1="1449.75" y1="982" x2="1449.75" stroke="#3C3939" stroke-width="0.5"/>
+<g filter="url(#filter4_g_60_40)">
+<path d="M49.5 40L50.5763 43.4716C51.1911 45.4544 52.4724 47.1637 54.2032 48.31L56 49.5L54.2032 50.69C52.4724 51.8363 51.1911 53.5456 50.5763 55.5284L49.5 59L48.4237 55.5284C47.8089 53.5456 46.5276 51.8363 44.7968 50.69L43 49.5L44.7968 48.31C46.5276 47.1637 47.8089 45.4544 48.4237 43.4716L49.5 40Z" fill="#3C3939"/>
+</g>
 </g>
 <defs>
-<filter id="filter0_n_60_40" x="0" y="0" width="1512" height="982" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_n_60_40" x="0" y="0" width="1727" height="982" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feTurbulence type="fractalNoise" baseFrequency="2 2" stitchTiles="stitch" numOctaves="3" result="noise" seed="5155" />
@@ -35,7 +35,7 @@
 <feMergeNode in="color1" />
 </feMerge>
 </filter>
-<filter id="filter1_g_60_40" x="39" y="38" width="21" height="27" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter1_g_60_40" x="1666" y="36" width="21" height="27" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feTurbulence type="fractalNoise" baseFrequency="10 10" numOctaves="3" seed="9949" />
@@ -44,7 +44,7 @@
 <feMergeNode in="displacedImage"/>
 </feMerge>
 </filter>
-<filter id="filter2_g_60_40" x="1439" y="918" width="21" height="27" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter2_g_60_40" x="1666" y="918" width="21" height="27" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feTurbulence type="fractalNoise" baseFrequency="10 10" numOctaves="3" seed="9949" />
@@ -53,7 +53,7 @@
 <feMergeNode in="displacedImage"/>
 </feMerge>
 </filter>
-<filter id="filter3_g_60_40" x="1439" y="37" width="21" height="27" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter3_g_60_40" x="39" y="918" width="21" height="27" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feTurbulence type="fractalNoise" baseFrequency="10 10" numOctaves="3" seed="9949" />
@@ -62,7 +62,7 @@
 <feMergeNode in="displacedImage"/>
 </feMerge>
 </filter>
-<filter id="filter4_g_60_40" x="39" y="918" width="21" height="27" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter4_g_60_40" x="39" y="36" width="21" height="27" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feTurbulence type="fractalNoise" baseFrequency="10 10" numOctaves="3" seed="9949" />
@@ -72,7 +72,7 @@
 </feMerge>
 </filter>
 <clipPath id="clip0_60_40">
-<rect width="1512" height="982" fill="white"/>
+<rect width="1727" height="982" fill="white"/>
 </clipPath>
 </defs>
 </svg>
